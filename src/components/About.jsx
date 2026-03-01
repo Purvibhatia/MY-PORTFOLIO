@@ -75,7 +75,7 @@ export default function About() {
                   <span className="absolute inset-0 rounded-full bg-green-600" />
                 </span>
                 <span className="font-mono text-sm">
-                  <strong>Available</strong> — Australia · Remote/Hybrid
+                  <strong>Available</strong> — India · Remote/Hybrid
                 </span>
               </div>
             </div>
